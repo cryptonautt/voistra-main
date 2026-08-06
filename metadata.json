@@ -1,0 +1,7 @@
+{
+  "name": "Voistra",
+  "description": "An on-chain insights platform built on MegaETH, featuring token-gated surveys, beta testing rewards, and a social review feed.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
