@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "voistra-dev",
+      "runtimeExecutable": "cmd.exe",
+      "runtimeArgs": ["/c", "set PATH=C:\\Users\\PEACE\\nodejs_dist\\node-v22.14.0-win-x64;%PATH% && npm run dev"],
+      "port": 3000
+    }
+  ]
+}
